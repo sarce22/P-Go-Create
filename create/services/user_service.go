@@ -66,8 +66,5 @@ func (s *UserService) CreateUser(nombre, telefono, direccion, cedula, correo str
 	return user, nil
 }
 
-//prueba de sh
 
-// prueba de sh # 2
 
-//test
